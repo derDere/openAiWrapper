@@ -12,5 +12,8 @@
   "devDependencies": {
     "electron": "^29.1.4",
     "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "command-line-args": "^5.2.1"
   }
 }
