@@ -14,7 +14,7 @@ This project aims to provide a simple Electron wrapper for ChatGPT, allowing use
 
 #### Windows
 
-Download the executable file from the [releases](link-to-releases) section.
+Download the executable file from the [releases](https://github.com/derDere/openAiWrapper/releases) section.
 
 #### Other Platforms
 
