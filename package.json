@@ -1,0 +1,16 @@
+{
+  "name": "openaiwrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . ChatGPT --platform=win32 --arch=x64 --overwrite --icon=logo.ico"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.4",
+    "electron-packager": "^17.1.2"
+  }
+}
