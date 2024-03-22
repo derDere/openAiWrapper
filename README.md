@@ -35,6 +35,20 @@ npm start
 
 This will launch the application in development mode.
 
+## Command Line Arguments
+
+You can customize the behavior of the application using the following command line arguments:
+
+- `--light-mode` or `-l`: Enables light mode (default: false). (This will only change the window Background! You will have to turn on Light or Dark mode on the website to!)
+- `--zoom` or `-z`: Adjusts the zoom level of the application (default: 1.0).
+
+For example:
+
+```bash
+npm start -- --light-mode --zoom=2
+ChatGPT.exe --light-mode --zoom=2
+```
+
 ## Usage
 
 Simply launch the application, and you'll see ChatGPT loaded in a standalone window. There are no additional features or configurations; it's just ChatGPT in its pure form. Login and thats it. Light and Dark mode is managed via the normal ChatGPT website.
